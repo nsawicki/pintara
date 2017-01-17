@@ -2,7 +2,7 @@
 
 ## University of Michigan EECS 445 Artistic Style
 
-**Collaborators**: Brad Frost (@bfrost2893), Kevin Pitt (@kpittumich15), Nathan Sawicki, Stephen Kovacinski (@Kovacinski), Luke Simonson (@lukesimo)
+**Collaborators**: Brad Frost (@bfrost2893), Kevin Pitt (@kpittumich15), Nathan Sawicki (@nsawicki), Stephen Kovacinski (@Kovacinski), Luke Simonson (@lukesimo)
 
 This project was influenced by the paper [*A Neural Algorithm of Artistic Style*](http://arxiv.org/abs/1508.06576). This was the final project of
 our EECS 445: Introduction to Machine Learning.
